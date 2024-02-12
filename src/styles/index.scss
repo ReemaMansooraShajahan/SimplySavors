@@ -310,6 +310,15 @@ img{
                 }
             }
     }
+ .Stylessss{
+    background-color: var(--background-light);
+    color:(var(--primary-color));
+    font:'Lucida Handwriting';
+    font-style: italic;
+    padding-top: 27%;
+    padding-bottom: 27%;
+    padding-left: 25%;
+ }
     @media screen and (max-width:480px) {
         .container{
         padding-inline: 3vw;}
